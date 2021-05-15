@@ -8,6 +8,14 @@
     * [数据库备份接口](/admin/backup.md "数据库备份接口")
     * [数据库备份文件列表接口](/admin/backup_list.md "数据库备份文件列表接口")
     * [数据库备份文件删除接口](/admin/backup_file_delete.md "数据库备份文件删除接口")
+
+  * 存储管理
+    * [存储列表接口](/admin/storage_list.md "存储列表接口")
+    * [存储添加接口](/admin/storage_add.md "存储添加接口")
+    * [存储更新接口](/admin/storage_update.md "存储更新接口")
+    * [存储删除接口](/admin/storage_delete.md "本地存储删除接口")
+    * [绑定存储接口](/admin/storage_bind.md "绑定存储接口")
+    * [存储复制接口](/admin/storage_copy.md "存储复制接口")
     
   * Gitee存储管理
     * [Gitee存储列表接口](/admin/gitee_list.md "Gitee存储列表接口")
@@ -22,7 +30,9 @@
     * [Github存储删除接口](/admin/github_delete.md "Github存储删除接口")
 
   * 本地存储管理
-    * [Gitee存储列表接口](/admin/ "Gitee存储列表接口")
-    * [Gitee存储列表接口](/admin/ "Gitee存储列表接口")
-    * [Gitee存储列表接口](/admin/ "Gitee存储列表接口")
-    * [Gitee存储列表接口](/admin/ "Gitee存储列表接口")
+    * [本地存储列表接口](/admin/local_list.md "本地存储列表接口")
+    * [本地存储添加接口](/admin/local_add.md "本地存储添加接口")
+    * [本地存储更新接口](/admin/local_update.md "本地存储更新接口")
+    * [本地存储删除接口](/admin/local_delete.md "本地存储删除接口")
+
+
